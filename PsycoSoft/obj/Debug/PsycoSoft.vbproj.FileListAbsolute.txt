@@ -1,0 +1,90 @@
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\PsycoSoft.exe
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\PsycoSoft.pdb
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\PsycoSoft.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\ResolveAssemblyReference.cache
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.Resources.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.exe.licenses
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.exe
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.pdb
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.Main.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\PsycoSoft.exe.config
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\GenerateResource.read.1.tlog
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\GenerateResource.write.1.tlog
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_profil.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\psycoDatabase.sdf
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Model.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Presenter.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms View.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Model.pdb
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Model.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Presenter.pdb
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Presenter.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms View.pdb
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms View.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_test_mbti.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_mbti_result.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Report.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Report.pdb
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Window Forms Report.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_mbti_skoring.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.Data.v12.1.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.Utils.v12.1.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraBars.v12.1.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraReports.v12.1.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.Data.v12.1.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.Printing.v12.1.Core.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.Utils.v12.1.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraBars.v12.1.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraEditors.v12.1.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraGrid.v12.1.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraLayout.v12.1.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\DevExpress.XtraReports.v12.1.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\de\DevExpress.Data.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\es\DevExpress.Data.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ja\DevExpress.Data.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ru\DevExpress.Data.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\de\DevExpress.Printing.v12.1.Core.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\es\DevExpress.Printing.v12.1.Core.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ja\DevExpress.Printing.v12.1.Core.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ru\DevExpress.Printing.v12.1.Core.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\de\DevExpress.Utils.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\es\DevExpress.Utils.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ja\DevExpress.Utils.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ru\DevExpress.Utils.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\de\DevExpress.XtraBars.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\es\DevExpress.XtraBars.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ja\DevExpress.XtraBars.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ru\DevExpress.XtraBars.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\de\DevExpress.XtraEditors.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\es\DevExpress.XtraEditors.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ja\DevExpress.XtraEditors.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ru\DevExpress.XtraEditors.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\de\DevExpress.XtraGrid.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\es\DevExpress.XtraGrid.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ja\DevExpress.XtraGrid.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ru\DevExpress.XtraGrid.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\de\DevExpress.XtraLayout.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\es\DevExpress.XtraLayout.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ja\DevExpress.XtraLayout.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ru\DevExpress.XtraLayout.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\de\DevExpress.XtraReports.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\es\DevExpress.XtraReports.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ja\DevExpress.XtraReports.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\ru\DevExpress.XtraReports.v12.1.resources.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_MI_test.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_belbin_test.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_bigfive_test.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_eneagram_test.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_FiroB_Test.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_WaitForm.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_SDS_Test.resources
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\bin\Debug\System.Data.Entity.dll
+D:\PsycoTest\Coding\PsycoSoft\PsycoSoft\obj\Debug\PsycoSoft.frm_disc_test.resources

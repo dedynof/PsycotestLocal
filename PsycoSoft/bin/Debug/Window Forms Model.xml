@@ -1,0 +1,824 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowFormsModel
+</name>
+</assembly>
+<members>
+<member name="M:Window_Forms_Model.psycoDatabaseEntities.#ctor">
+	<summary>
+ Initializes a new psycoDatabaseEntities object using the connection string found in the 'psycoDatabaseEntities' section of the application configuration file.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.#ctor(System.String)">
+	<summary>
+ Initialize a new psycoDatabaseEntities object.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new psycoDatabaseEntities object.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.jenis_kelamins">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.modules">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.Pendidikan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.profils">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.soal_mbtis">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.mbti_jawabans">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.mi_jawaban">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.belbin_jawaban">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.eneagram_soals">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.eneagram_jawabans">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.firob_jawabans">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.bigfive_jawabans">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.psycoDatabaseEntities.SDS_Jawabans">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddTojenis_kelamins(Window_Forms_Model.jenis_kelamin_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the jenis_kelamins EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddTomodules(Window_Forms_Model.module_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the modules EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddToPendidikan(Window_Forms_Model.Pendidikan_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the Pendidikan EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddToprofils(Window_Forms_Model.profil_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the profils EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddTosoal_mbtis(Window_Forms_Model.soal_mbti_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the soal_mbtis EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddTombti_jawabans(Window_Forms_Model.mbti_jawaban_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the mbti_jawabans EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddTomi_jawaban(Window_Forms_Model.mi_jawaban)">
+	<summary>
+ Deprecated Method for adding a new object to the mi_jawaban EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddTobelbin_jawaban(Window_Forms_Model.belbin_jawaban)">
+	<summary>
+ Deprecated Method for adding a new object to the belbin_jawaban EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddToeneagram_soals(Window_Forms_Model.eneagram_soal_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the eneagram_soals EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddToeneagram_jawabans(Window_Forms_Model.eneagram_jawaban_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the eneagram_jawabans EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddTofirob_jawabans(Window_Forms_Model.firob_jawaban_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the firob_jawabans EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddTobigfive_jawabans(Window_Forms_Model.bigfive_jawaban_entity)">
+	<summary>
+ Deprecated Method for adding a new object to the bigfive_jawabans EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Window_Forms_Model.psycoDatabaseEntities.AddToSDS_Jawabans(Window_Forms_Model.SDS_Jawaban_Entity)">
+	<summary>
+ Deprecated Method for adding a new object to the SDS_Jawabans EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:Window_Forms_Model.psycoDatabaseEntities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.belbin_jawaban.Createbelbin_jawaban(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new belbin_jawaban object.
+ </summary>
+	<param name="profil_id">Initial value of the profil_id property.</param>
+	<param name="sh">Initial value of the sh property.</param>
+	<param name="co">Initial value of the co property.</param>
+	<param name="pl">Initial value of the pl property.</param>
+	<param name="ri">Initial value of the ri property.</param>
+	<param name="me">Initial value of the me property.</param>
+	<param name="imp">Initial value of the imp property.</param>
+	<param name="tw">Initial value of the tw property.</param>
+	<param name="cf">Initial value of the cf property.</param>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.profil_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.sh">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.co">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.pl">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.ri">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.me">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.imp">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.tw">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.belbin_jawaban.cf">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.belbin_jawaban">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.bigfive_jawaban_entity.Createbigfive_jawaban_entity(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new bigfive_jawaban_entity object.
+ </summary>
+	<param name="profil_id">Initial value of the profil_id property.</param>
+	<param name="s_e">Initial value of the s_e property.</param>
+	<param name="s_a">Initial value of the s_a property.</param>
+	<param name="s_c">Initial value of the s_c property.</param>
+	<param name="s_n">Initial value of the s_n property.</param>
+	<param name="s_o">Initial value of the s_o property.</param>
+</member><member name="P:Window_Forms_Model.bigfive_jawaban_entity.profil_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.bigfive_jawaban_entity.s_e">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.bigfive_jawaban_entity.s_a">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.bigfive_jawaban_entity.s_c">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.bigfive_jawaban_entity.s_n">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.bigfive_jawaban_entity.s_o">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.bigfive_jawaban_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.eneagram_jawaban_entity.Createeneagram_jawaban_entity(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new eneagram_jawaban_entity object.
+ </summary>
+	<param name="profil_id">Initial value of the profil_id property.</param>
+	<param name="k_a">Initial value of the k_a property.</param>
+	<param name="k_b">Initial value of the k_b property.</param>
+	<param name="k_c">Initial value of the k_c property.</param>
+	<param name="k_d">Initial value of the k_d property.</param>
+	<param name="k_e">Initial value of the k_e property.</param>
+	<param name="k_f">Initial value of the k_f property.</param>
+	<param name="k_g">Initial value of the k_g property.</param>
+	<param name="k_h">Initial value of the k_h property.</param>
+	<param name="k_i">Initial value of the k_i property.</param>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.profil_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_a">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_b">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_c">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_d">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_e">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_f">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_g">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_h">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_jawaban_entity.k_i">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.eneagram_jawaban_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.eneagram_soal_entity.Createeneagram_soal_entity(System.Int32,System.String)">
+	<summary>
+ Create a new eneagram_soal_entity object.
+ </summary>
+	<param name="nomor">Initial value of the nomor property.</param>
+	<param name="soal">Initial value of the soal property.</param>
+</member><member name="P:Window_Forms_Model.eneagram_soal_entity.nomor">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.eneagram_soal_entity.soal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.eneagram_soal_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.firob_jawaban_entity.Createfirob_jawaban_entity(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new firob_jawaban_entity object.
+ </summary>
+	<param name="profil_id">Initial value of the profil_id property.</param>
+	<param name="ie">Initial value of the ie property.</param>
+	<param name="iw">Initial value of the iw property.</param>
+	<param name="ce">Initial value of the ce property.</param>
+	<param name="cw">Initial value of the cw property.</param>
+	<param name="ae">Initial value of the ae property.</param>
+	<param name="aw">Initial value of the aw property.</param>
+</member><member name="P:Window_Forms_Model.firob_jawaban_entity.profil_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.firob_jawaban_entity.ie">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.firob_jawaban_entity.iw">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.firob_jawaban_entity.ce">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.firob_jawaban_entity.cw">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.firob_jawaban_entity.ae">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.firob_jawaban_entity.aw">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.firob_jawaban_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.jenis_kelamin_entity.Createjenis_kelamin_entity(System.Int32)">
+	<summary>
+ Create a new jenis_kelamin_entity object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+</member><member name="P:Window_Forms_Model.jenis_kelamin_entity.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.jenis_kelamin_entity.Jenis_kelamin1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.jenis_kelamin_entity.profil">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.jenis_kelamin_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.mbti_jawaban_entity.Creatembti_jawaban_entity(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new mbti_jawaban_entity object.
+ </summary>
+	<param name="profil_id">Initial value of the profil_id property.</param>
+	<param name="e_1">Initial value of the e_1 property.</param>
+	<param name="e_2">Initial value of the e_2 property.</param>
+	<param name="e_3">Initial value of the e_3 property.</param>
+	<param name="i_1">Initial value of the i_1 property.</param>
+	<param name="i_2">Initial value of the i_2 property.</param>
+	<param name="i_3">Initial value of the i_3 property.</param>
+	<param name="s_1">Initial value of the s_1 property.</param>
+	<param name="s_2">Initial value of the s_2 property.</param>
+	<param name="s_3">Initial value of the s_3 property.</param>
+	<param name="n_1">Initial value of the n_1 property.</param>
+	<param name="n_2">Initial value of the n_2 property.</param>
+	<param name="n_3">Initial value of the n_3 property.</param>
+	<param name="t_1">Initial value of the t_1 property.</param>
+	<param name="t_2">Initial value of the t_2 property.</param>
+	<param name="t_3">Initial value of the t_3 property.</param>
+	<param name="f_1">Initial value of the f_1 property.</param>
+	<param name="f_2">Initial value of the f_2 property.</param>
+	<param name="f_3">Initial value of the f_3 property.</param>
+	<param name="j_1">Initial value of the j_1 property.</param>
+	<param name="j_2">Initial value of the j_2 property.</param>
+	<param name="j_3">Initial value of the j_3 property.</param>
+	<param name="p_1">Initial value of the p_1 property.</param>
+	<param name="p_2">Initial value of the p_2 property.</param>
+	<param name="p_3">Initial value of the p_3 property.</param>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.profil_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.e_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.e_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.e_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.i_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.i_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.i_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.s_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.s_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.s_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.n_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.n_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.n_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.t_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.t_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.t_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.f_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.f_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.f_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.j_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.j_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.j_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.p_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.p_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.p_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.profil">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mbti_jawaban_entity.profilReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.mbti_jawaban_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.mi_jawaban.Createmi_jawaban(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new mi_jawaban object.
+ </summary>
+	<param name="profil_id">Initial value of the profil_id property.</param>
+	<param name="k_1">Initial value of the k_1 property.</param>
+	<param name="k_2">Initial value of the k_2 property.</param>
+	<param name="k_3">Initial value of the k_3 property.</param>
+	<param name="k_4">Initial value of the k_4 property.</param>
+	<param name="k_5">Initial value of the k_5 property.</param>
+	<param name="k_6">Initial value of the k_6 property.</param>
+	<param name="k_7">Initial value of the k_7 property.</param>
+	<param name="k_8">Initial value of the k_8 property.</param>
+</member><member name="P:Window_Forms_Model.mi_jawaban.profil_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mi_jawaban.k_1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mi_jawaban.k_2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mi_jawaban.k_3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mi_jawaban.k_4">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mi_jawaban.k_5">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mi_jawaban.k_6">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mi_jawaban.k_7">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.mi_jawaban.k_8">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.mi_jawaban">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.module_entity.Createmodule_entity(System.Int32,System.String,System.String)">
+	<summary>
+ Create a new module_entity object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+	<param name="kode_modul">Initial value of the kode_modul property.</param>
+	<param name="nama_modul">Initial value of the nama_modul property.</param>
+</member><member name="P:Window_Forms_Model.module_entity.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.module_entity.kode_modul">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.module_entity.nama_modul">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.module_entity.keterangan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.module_entity.created_by">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.module_entity.created_date">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.module_entity.modified_by">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.module_entity.modified_date">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.module_entity.profil">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.module_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.Pendidikan_entity.CreatePendidikan_entity(System.Int32)">
+	<summary>
+ Create a new Pendidikan_entity object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+</member><member name="P:Window_Forms_Model.Pendidikan_entity.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.Pendidikan_entity.Pendidikan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.Pendidikan_entity.profil">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.Pendidikan_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.profil_entity.Createprofil_entity(System.Int32,System.String,System.DateTime,System.Int32,System.Int32,System.DateTime,System.String,System.Int32)">
+	<summary>
+ Create a new profil_entity object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+	<param name="nomor">Initial value of the nomor property.</param>
+	<param name="tgl_lahir">Initial value of the tgl_lahir property.</param>
+	<param name="jenis_kelamin_id">Initial value of the jenis_kelamin_id property.</param>
+	<param name="pendidikan_id">Initial value of the pendidikan_id property.</param>
+	<param name="tgl_tes">Initial value of the tgl_tes property.</param>
+	<param name="nama">Initial value of the nama property.</param>
+	<param name="modul_id">Initial value of the modul_id property.</param>
+</member><member name="P:Window_Forms_Model.profil_entity.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.nomor">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.tgl_lahir">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.jenis_kelamin_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.pendidikan_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.tgl_tes">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.data_kelompok_tes">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.tujuan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.nama">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.modul_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.jenis_kelamin">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.jenis_kelaminReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.Pendidikan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.PendidikanReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.module">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.moduleReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.mbti_jawaban">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.mbti_jawabanReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.profil_entity.SDS_Jawaban">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.profil_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.SDS_Jawaban_Entity.CreateSDS_Jawaban_Entity(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new SDS_Jawaban_Entity object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+	<param name="profil_id">Initial value of the profil_id property.</param>
+	<param name="c_R">Initial value of the C_R property.</param>
+	<param name="c_I">Initial value of the C_I property.</param>
+	<param name="c_A">Initial value of the C_A property.</param>
+	<param name="c_S">Initial value of the C_S property.</param>
+	<param name="c_E">Initial value of the C_E property.</param>
+	<param name="c_C">Initial value of the C_C property.</param>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.profil_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.C_R">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.C_I">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.C_A">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.C_S">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.C_E">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.C_C">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.profil">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.SDS_Jawaban_Entity.profilReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.SDS_Jawaban_Entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Window_Forms_Model.soal_mbti_entity.Createsoal_mbti_entity(System.Int32,System.Int32,System.String)">
+	<summary>
+ Create a new soal_mbti_entity object.
+ </summary>
+	<param name="modul_id">Initial value of the modul_id property.</param>
+	<param name="nomor">Initial value of the nomor property.</param>
+	<param name="pertanyaan">Initial value of the pertanyaan property.</param>
+</member><member name="P:Window_Forms_Model.soal_mbti_entity.modul_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.soal_mbti_entity.nomor">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.soal_mbti_entity.pertanyaan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.soal_mbti_entity.pilihan1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.soal_mbti_entity.pilihan2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.soal_mbti_entity.deskripsi1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.soal_mbti_entity.deskripsi2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Window_Forms_Model.soal_mbti_entity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Window_Forms_Model.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Window_Forms_Model.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Window_Forms_Model.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
